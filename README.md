@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Stream+Controller-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Elgato Stream Deck Free Installer** — Elgato Stream Deck software is the companion application for Stream Deck hardware controllers — physical devices with LCD buttons that trigger actions in streaming, recording, and content creation workflows. Works without internet access, no account required. Full offline installation.
+**💻 Elgato Stream Deck Free Installer** — Elgato Stream Deck software is the configuration application for Stream Deck hardware devices. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Elgato Stream Deck
 
-Elgato Stream Deck software is the companion application for Stream Deck hardware controllers — physical devices with LCD buttons that trigger actions in streaming, recording, and content creation workflows. Assign OBS scene switches, tweet shortcuts, sound effects, website launches, and application controls to Stream Deck buttons. The software enables complex multi-action sequences through visual button programming.
+Elgato Stream Deck software is the configuration application for Stream Deck hardware devices. It allows assigning unlimited actions, scenes, transitions, and app shortcuts to physical LCD keys — bringing professional broadcast control to streamers and content creators.
 
 ---
 
 ## ❌ Problem: Elgato Stream Deck is hard to access
 
-- **Elgato Hardware Required** — Software only useful with Stream Deck physical hardware
-- **Commercial Hardware Cost** — Stream Deck devices range from $100 to $250+
-- **Streaming Workflow Focus** — Most valuable for streamers and content creators
-- **Plugin Quality** — Third-party plugins vary in quality and maintenance
+- **Hardware Required** — Software is useless without a Stream Deck physical device
+- **Windows and macOS Only** — No Linux support
+- **Plugin Ecosystem** — Some best plugins require paid subscriptions
+- **Price of Hardware** — Stream Deck devices are a significant financial investment
 
 ---
 
@@ -121,7 +121,7 @@ Elgato Stream Deck software is the companion application for Stream Deck hardwar
 
 ---
 
-**Elgato Stream Deck Free Installer** — Elgato Stream Deck software is the companion application for Stream Deck hardware controllers — physical devices with LCD buttons that trigger actions in streaming, recording, and content creation workflows. Install without internet connection today!
+**Elgato Stream Deck Free Installer** — Elgato Stream Deck software is the configuration application for Stream Deck hardware devices. Install without internet connection today!
 
 <div align="center">
 
